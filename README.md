@@ -10,20 +10,25 @@ Before running the application, make sure your system meets the following requir
 - Required libraries from `requirements.txt`  
 - Connected Microsoft SQL Server database  
 
-## Installation and Setup
-First of all!
-git clone https://github.com/твой-юзернейм/твой-репозиторий.git
+How to Run the Project from GitHub
+To try project after downloading it from GitHub, follow these steps:
 
-1. Open a terminal or command prompt.  
-2. Navigate to the project directory:  
-   ```sh
-   cd path/to/project
-3.Install dependencies:
+1. Clone the Repository
+Open a terminal or command prompt and run:
+
+git clone https://github.com/your-username/your-repository.git
+
+Then, navigate to the project folder:
+cd your-repository
+
+Install Dependencies
+Run the following command to install required libraries:
 pip install -r requirements.txt
 
-4.Ensure you have the pyodbc module installed:
+Install pyodbc library:
 pip install pyodbc
 
-5.Run the application:
+Run the Project:
 python app.py
+
 

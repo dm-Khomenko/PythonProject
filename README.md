@@ -11,6 +11,8 @@ Before running the application, make sure your system meets the following requir
 - Connected Microsoft SQL Server database  
 
 ## Installation and Setup
+First of all!
+git clone https://github.com/твой-юзернейм/твой-репозиторий.git
 
 1. Open a terminal or command prompt.  
 2. Navigate to the project directory:  
